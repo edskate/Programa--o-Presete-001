@@ -5,3 +5,6 @@ table{
 th{
   justify-content: baseline;
 }
+td{
+  width: 600px;
+}
