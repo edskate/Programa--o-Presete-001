@@ -1,10 +1,11 @@
 table{
     display: flex;
+    width: 1100px;
     justify-content: left;
 }
 th{
   justify-content: baseline;
 }
 td{
-  width: 600px;
+  width: 800px;
 }
